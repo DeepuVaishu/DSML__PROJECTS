@@ -20,14 +20,14 @@ The dataset is stored in an Excel file named Bike Sales Data project.xlsx and in
 - Purchased Bike
 
 # PROJECT COMPONENTS
-1. Data Cleaning and Preprocessing
+1. Data Cleaning and Preprocessing:<br/>
 The dataset underwent thorough cleaning and preprocessing to ensure data quality and consistency. This involved:
 * Checking for missing or inconsistent data.
 * Removing duplicates.
 * Standardizing data formats.
 * Validating data entries.
 
-2. Pivot Tables and Charts
+2. Pivot Tables and Charts:<br/>
 Using Excel's pivot tables and charting features, various visualizations were created to uncover trends and insights related to different aspects of the dataset. Key analyses include:
 * Bike purchases by gender.
 * Bike purchases by income bracket.
@@ -36,8 +36,7 @@ Using Excel's pivot tables and charting features, various visualizations were cr
 * Regional analysis of bike purchases.
 * Bike Purchases Based on Age Bracket.
 
-3. Sales Analysis Dashboard
-
+3. Sales Analysis Dashboard:<br/>
 The project culminates in a visual dashboard created entirely within Excel. This interactive dashboard provides an overview of the sales data and allows users to explore key metrics and trends. Features include:
 - Multiple pivot charts.
 - Slicers for interactive filtering.
